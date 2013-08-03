@@ -2,14 +2,14 @@ declare module D3 {
 
     interface Selection {
 
-        lineStyle(lineStyle:Style.Line):Selection;
-        lineStyle(callFn:(d:any,i:number)=>Style.Line):Selection;
+        lineStyle(lineStyle:any):Selection;
+        lineStyle(callFn:(d:any,i:number)=>any):Selection;
 
-        areaStyle(areaStyle:Style.Area):Selection;
-        areaStyle(callFn:(d:any,i:number)=>Style.Area):Selection;
+        areaStyle(areaStyle:any):Selection;
+        areaStyle(callFn:(d:any,i:number)=>any):Selection;
 
-        fontStyle(fontStyle:Style.Font):Selection;
-        fontStyle(callFn:(d:any,i:number)=>Style.Font):Selection;
+        fontStyle(fontStyle:any):Selection;
+        fontStyle(callFn:(d:any,i:number)=>any):Selection;
     }
 
     interface Style {
