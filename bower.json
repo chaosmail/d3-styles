@@ -1,6 +1,6 @@
 {
   "name": "d3-styles",
-  "description": "",
+  "description": "Adds lineStyle, areaStyle and fontStyle to D3.js ",
   "version": "0.0.1",
   "main": "d3-styles.js",
   "ignore": [
