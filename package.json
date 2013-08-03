@@ -1,0 +1,11 @@
+{
+  "name": "d3-styles",
+  "description": "Add Quick Styles to D3.js",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}
