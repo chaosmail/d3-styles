@@ -1,4 +1,4 @@
-/** d3-styles - v0.0.2 - Mon Sep 16 2013 19:09:39
+/** d3-styles - v0.0.2 - Fri Sep 20 2013 15:35:17
  *  (c) 2013 Christoph Körner, office@chaosmail.at, http://chaosmail.at
  *  License: MIT
  */

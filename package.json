@@ -10,7 +10,8 @@
     "grunt-cli": "~0.1.9",
     "grunt-contrib-watch": "~0.5.1",
     "grunt": "~0.4.1",
-    "grunt-contrib-concat": "~0.3.0"
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-shell": "~0.4.0"
   },
   "scripts": {
     "test": "mocha test"
